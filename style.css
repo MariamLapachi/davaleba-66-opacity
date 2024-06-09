@@ -5,12 +5,8 @@
 
 body {
     margin-top: 10px;   
-}
-
-img {
-    Width:1280px ;
-    height:832px;
-    position: relative;
+    background-image: url(22.png);  
+    background-size: cover;    
 }
 
 .box {
